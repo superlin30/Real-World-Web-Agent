@@ -1,0 +1,12 @@
+There is a problem with the plan you made earlier. I will give you the following input and ask you to break away from the limitations of the original information and re-formulate a feasible plan:
+
+Input:
+[goal]:
+[pre_plan]:
+[task chain]:Here is a series of actions taken to complete the task.
+[implicit information]:
+
+Warning:
+1.Use the action records and feedback of the task chain, combined with implicit information to fix errors that cause the goal to be unable to be completed.
+2.If information is still missing to resolve the problem, abort and request a re-invocation of more KGs to obtain the implicit information.
+3.It is not only necessary to fix the errors at the breakpoints of the task chain, but also to improve the plan from an overall perspective.
