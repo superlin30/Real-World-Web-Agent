@@ -37,7 +37,7 @@ We introduce a Replanning mechanism for LLM-based agents that dynamically integr
 </p>
 
 
-# Our method
+## Our method
 
 The framework is based on three innovative components: **logic path reasoning based** on Knowledge Graphs (KG), **single action process** incorporating environmental feedback and skill management, and **task chain management** for implementing Replanning and Reaction.
 
@@ -70,7 +70,7 @@ The framework is based on three innovative components: **logic path reasoning ba
 
 
 
-# References
+## References
 
 There are several key papers that contribute to the arguments and research field of our work. Let's discuss the significance of these important references:
 
