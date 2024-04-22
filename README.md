@@ -38,7 +38,7 @@ The framework is based on three innovative components: logic path reasoning base
 
 1.The logic path reasoning:
 
-![](figs/Logic path reasoning based on KG.png)
+![](figs/Logic path reasoning based on KG.png](https://github.com/superlin30/Real-World-Web-Agent/blob/main/figs/Logic%20path%20reasoning%20based%20on%20KG.png)
 
 2.The single action process component:
 
