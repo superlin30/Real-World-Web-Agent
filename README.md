@@ -10,7 +10,9 @@
 ______________________________________________________________________
 </div>
 
-https://github.com/superlin30/Real-World-Web-Agent/assets/48671954/6262551f-e0e2-40b7-a7d7-3d56d3a69479
+
+https://github.com/superlin30/Real-World-Web-Agent/assets/48671954/dc1cb04e-d13e-4e98-bc9f-41304b340c12
+https://github.com/superlin30/Real-World-Web-Agent/assets/48671954/b95ca0e7-5a77-43fe-9cf3-49bd6748c4e1
 
 
 
