@@ -47,19 +47,19 @@ The framework is based on three innovative components: logic path reasoning base
 </p>
 
 
-1.The logic path reasoning:
+1.The logic path reasoning component is based on KG, which captures implicit information based on the identity, background, and preferences of the user. The reasoning process involves named entity recognition and KG retrieval, path propagation, and mindmap generation. This approach transforms sparse, document-based knowledge repositories into a more effective knowledge graph-based reasoning and rapid response mechanism.
 
 <p align="center">
   <img src="figs/Logic%20path%20reasoning%20based%20on%20KG.png" alt="Logic" width="95%">
 </p>
 
-2.The single action process component:
+2.The single action process component is based on environmental feedback and skill management. It enables the interaction of Replanning and Reaction in LLM’s actions by treating LLM’s single action as a dynamic skill management system based on environmental feedback. The process involves environmental awareness, skill library management, and error handling mechanism based on environmental feedback.
 
 <p align="center">
   <img src="figs/Roadmap%20of%20single%20action%20process.png" alt="Logic" width="95%">
 </p>
 
-3.The task chain management:
+3.The task chain management component is responsible for implementing Replanning and Reaction. It uses a vector database to store different task chains and merges them based on the vector similarity of the tasks, creating a comprehensive mindmap that encompasses multiple task chains. This mindmap dynamically integrates and manages actions triggered in the past, following the logical relationships of the planned tasks.
 
 <p align="center">
   <img src="figs/Task%20chain.png" alt="Task" width="95%">
