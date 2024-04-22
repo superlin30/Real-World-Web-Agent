@@ -1,4 +1,4 @@
-# Voyager: An Open-Ended Embodied Agent with Large Language Models
+# Getting LLM to think and act like a human being: Logical path reasoning and Replanning
 <div align="center">
 
 [[Arxiv]](xxx)
@@ -8,17 +8,19 @@
 [![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)](https://github.com/MineDojo/Voyager)
 [![GitHub license](https://img.shields.io/badge/MIT-blue)]()
 ______________________________________________________________________
+</div>
 
 
-## Getting LLM to think and act like a human being: Logical path reasoning and Replanning
-<div align="center">
 
-![](figs/Comparison .png)
 
 
 We introduce a Replanning mechanism for LLM-based agents that dynamically integrates feedback from actions and implicit information which not available in an initial thinking and reasoning framework, forming a bridge between the thinking and acting of LLMs. Compared to other agent methods, experiments conducted on real-life ticket booking websites such as Ctrip and Booking show that our method is more robust in executing clear instructions, capable of successfully completing more steps, and achieving a higher success rate in practical tasks such as ticket booking. especially in challenging tasks that require interactive thinking and action for LLMs.
 
-## Innovations
+<p align="center">
+  <img src="figs/Comparison%20.png" alt="Comparison" width="85%">
+</p>
+
+# Innovations
 
  We propose three innovative mechanisms: implicit reasoning, Replanning, and Reaction, which make the following contributions:
 
@@ -28,30 +30,45 @@ We introduce a Replanning mechanism for LLM-based agents that dynamically integr
 
 3. Reaction and inductive deduction based on Replanning, which corrects erroneous actions and explores new actions while reassessing and correcting action strategies under a global information set, refining and preserving more general laws and strategies.
 
-![](figs/Implicit reasoning and Replanning.png)
+<p align="center">
+  <img src="figs/Implicit%20reasoning%20and%20Replanning.png" alt="Implicit" width="85%">
+</p>
 
-## Our method
+
+# Our method
 
 The framework is based on three innovative components: logic path reasoning based on Knowledge Graphs (KG), single action process incorporating environmental feedback and skill management, and task chain management for implementing Replanning and Reaction.
 
-![](figs/Algorithm.png)
+
+<p align="center">
+  <img src="figs/Algorithm.png" alt="Algorithm" width="40%">
+</p>
+
 
 1.The logic path reasoning:
 
-![image](https://github.com/superlin30/Real-World-Web-Agent/blob/main/figs/Logic%20path%20reasoning%20based%20on%20KG.png)
+<p align="center">
+  <img src="figs/Logic%20path%20reasoning%20based%20on%20KG.png" alt="Logic" width="85%">
+</p>
 
 2.The single action process component:
 
-![](figs/Roadmap of single action process.png)
+<p align="center">
+  <img src="figs/Roadmap%20of%20single%20action%20process.png" alt="Logic" width="85%">
+</p>
 
 3.The task chain management:
 
-![](figs/Task chain.png)
+<p align="center">
+  <img src="figs/Task%20chain.png" alt="Task" width="85%">
+</p>
 
 
 
 
-## REFERENCES
+
+
+# REFERENCES
 
 We cite several key sources that contribute to the arguments and research field of the paper. Let's discuss the significance of some of these important references:
 
