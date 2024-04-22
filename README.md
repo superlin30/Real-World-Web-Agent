@@ -3,7 +3,7 @@
 
 [[Arxiv]](xxx)
 [[PDF]](xxx)
-[[Videos]](xxx)
+[[Videos]](https://github.com/superlin30/Real-World-Web-Agent/assets/48671954/dc1cb04e-d13e-4e98-bc9f-41304b340c12)
 
 [![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)](https://github.com/MineDojo/Voyager)
 [![GitHub license](https://img.shields.io/badge/MIT-blue)]()
@@ -12,8 +12,8 @@ ______________________________________________________________________
 
 
 https://github.com/superlin30/Real-World-Web-Agent/assets/48671954/dc1cb04e-d13e-4e98-bc9f-41304b340c12
+______________________________________________________________________
 https://github.com/superlin30/Real-World-Web-Agent/assets/48671954/b95ca0e7-5a77-43fe-9cf3-49bd6748c4e1
-
 
 
 We introduce a Replanning mechanism for LLM-based agents that dynamically integrates feedback from actions and implicit information which not available in an initial thinking and reasoning framework, forming a bridge between the thinking and acting of LLMs. Compared to other agent methods, experiments conducted on real-life ticket booking websites such as Ctrip and Booking show that our method is more robust in executing clear instructions, capable of successfully completing more steps, and achieving a higher success rate in practical tasks such as ticket booking. especially in challenging tasks that require interactive thinking and action for LLMs.
